@@ -30,7 +30,7 @@
   <a href="https://www.instagram.com/parthib.2006/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="21parthib2006@gmail.com" target="_blank">
+  <a href="mailto:21parthib2006@gmail.com?">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/parthib-basu-2859602a1/" target="_blank">
