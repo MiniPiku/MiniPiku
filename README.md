@@ -65,7 +65,7 @@ With a strong foundation in native integrations, backend services, and distribut
 ## 📊 GitHub Stats  
 ![](https://github-readme-stats.vercel.app/api?username=MiniPiku&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://nirzak-streak-stats.vercel.app/?user=MiniPiku&theme=gruvbox_light&hide_border=false)  
-![](https://your-deployment-url/api/top-langs/?username=MiniPiku&count_private=true&layout=compact&theme=gruvbox_light)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MiniPiku&theme=gruvbox_light&hide_border=false&layout=compact)
 
 ---
 
