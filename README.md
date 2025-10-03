@@ -10,10 +10,6 @@ I am a passionate developer with expertise in building both cross-platform apps 
 With a strong foundation in native integrations, backend services, and distributed systems, I focus on delivering seamless, end-to-end solutions. Always eager to learn and adapt, I stay updated with the latest technologies to create innovative and impactful applications.
 </p>
 
-###
-
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemJ5MGRvenJndzFwNmFxczZpejhjcWxwNHp0ZjdsMjExMThvbDFzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"  />
-
 ---
 
 ## 💻 Tech Stack  
@@ -63,9 +59,13 @@ With a strong foundation in native integrations, backend services, and distribut
 ---
 
 ## 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=MiniPiku&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=MiniPiku&theme=gruvbox_light&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MiniPiku&theme=gruvbox_light&hide_border=false&layout=compact)
+<div align="center">
+  
+  ![](https://github-readme-stats.vercel.app/api?username=MiniPiku&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true)  
+  ![](https://nirzak-streak-stats.vercel.app/?user=MiniPiku&theme=gruvbox_light&hide_border=false)  
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MiniPiku&theme=gruvbox_light&hide_border=false&layout=compact)
+
+</div>
 
 ---
 
