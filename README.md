@@ -51,7 +51,7 @@ With a strong foundation in native integrations, backend services, and distribut
   <a href="mailto:21parthib2006@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" />
   </a>
-  <a href="https://www.linkedin.com/in/parthib-basu-2859602a1/" target="_blank">
+  <a href="https://www.linkedin.com/in/parthib2006" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
   </a>
 </div>
